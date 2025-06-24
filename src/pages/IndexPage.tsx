@@ -1,7 +1,7 @@
 export const IndexPage = () => {
   return (
-    <section>
-      <h1>Hello world!</h1>
+    <section className="min-h-screen">
+      <h1>Hello World!</h1>
     </section>
   );
 };
